@@ -1,5 +1,7 @@
 # Bibhu Kumar's Portfolio
 
+[![Preview](https://img.shields.io/badge/Preview-Portfolio-blue)](https://bibhu2727.github.io/Personal-Portfolio/)
+
 Welcome to my personal portfolio website! This site showcases my projects, skills, and experiences as a software engineering student.
 
 ## Table of Contents
